@@ -1,0 +1,4 @@
+Student: Sedin Sehic
+Datum: 26.06.2026.
+GitHub profil: https://github.com/a-sehic-dev
+Zadatak: Rad sa GitHubom
